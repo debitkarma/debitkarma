@@ -4,7 +4,7 @@ This is a place where I plan to put things like:
 
 - Public repos of projects I work on live on stream
 - Helpful files I want to share with other streamers
-- Code for my [website](https://debitkarma.io)
+- Code for my website, [https://debitkarma.click](https://debitkarma.click/)
 - Plaintext items, like recipes, instructions, etc; content for static sites
 - OBS scene presets
 
